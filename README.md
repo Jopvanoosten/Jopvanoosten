@@ -1,5 +1,6 @@
 # Jop
 - Leeftijd: 16 jaar
-- School: CLD
+- School: CLD mhp
+- Jaarlaag: 5 VWO
 - Sport: Gym
 ---
