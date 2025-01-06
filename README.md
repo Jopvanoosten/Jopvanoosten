@@ -1,4 +1,5 @@
 # Jop
-- 16 jaar
-- cld
+- Leeftijd: 16 jaar
+- School: CLD
+- Sport: Gym
 ---
