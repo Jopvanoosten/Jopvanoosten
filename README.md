@@ -1,6 +1,6 @@
 # yoo welkom
-- Leeftijd: 16 jaar
+- Leeftijd: 17 jaar
 - School: CLD mhp
-- Jaarlaag: 5 VWO
-- Sport: Gym
+- Jaarlaag: 6 VWO
+- Sport: Sportschool
 ---
